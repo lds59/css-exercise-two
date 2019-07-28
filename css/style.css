@@ -121,9 +121,17 @@ article {
 h1 {
   line-height: 1.5;
   font-size: 30px;
+	font-weight: bold;
+	margin-top: 30px;
+	margin-bottom: 10px;
 }
 
 h3 {
   line-height: 2.0;
   font-size: 15px;
+	font-style: italic;
+}
+
+p {
+	margin-bottom: 10px;
 }
